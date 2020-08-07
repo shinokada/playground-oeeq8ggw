@@ -1,4 +1,28 @@
-title: Simple Rust Template
+title: Rust for Python Developers - Rust Unsigned, Signed Integers and Casting
 plan:
-- title: Rust Snippet
-  statement: statement.md
+- title: Introduction
+  statement: indtroduction.md
+- title: Unsigned Integer Types
+  statement: unsigned.md
+- title: Signed Integer Types
+  statement: signed.md
+- title: Sign-and-Magnitude
+  statement: signmaginitude.md
+- title: Ones’ Complement
+  statement: onescomplement.md
+- title: Two’s Complement
+  statement: twoscomplement.md
+- title: 4-bit Signed Binary Number Comparison
+  statement: binary.md
+- title: Rust signed two’s complement integer types
+  statement: integertypes.md
+- title: Casting in Rust
+  statement: casting.md
+- title: Casting to an Unsigned Type
+  statement: castingtounsigned.md
+- title: Casting to a Signed Type
+  statement: castingtosigned.md
+- title: Bitwise Negation
+  statement: bitwisenegation.md
+- title: Conclusion
+  statement: conclusion.md
