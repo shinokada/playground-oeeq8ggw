@@ -28,6 +28,7 @@ Casting 1000 to i8:
 ```
 
 ```rust runnable
+#[allow(overflowing_literals)]
 fn main() {
     println!("128 as a i8 is : {}", 128 as i8);
     println!("1000 as a i8 is : {}", 1000 as i8);
