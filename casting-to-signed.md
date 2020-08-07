@@ -42,8 +42,8 @@ fn main() {
 
 1000₁₀ in decimal is 11 **1**110 1000₂ in binary. The MSB within 8-bit is 1, so it is a negative number. Then use 2’s complement. The complement is 00010111₂ and we add 1₂ becomes 00011000₂. Finally, it is -24₁₀.
 
-![4-bit word-4](image/4-bit word-4.png)
+![4-bit word-4](image/4-bit-word-4.png)
 
 When the MSB within 8-bit is 0, it is a positive number. Then take the first 8 least significant bits (LSB).
 
-![4-bit word-5](image/4-bit word-5.png)
+![4-bit word-5](image/4-bit-word-5.png)

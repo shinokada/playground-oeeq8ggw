@@ -12,7 +12,7 @@ In computing, **signed number representations** are required to encode negative 
 
 **Sign-and-Magnitude** is also called **Signed Magnitude**. The first bit (called the most significant bit or MSB) tells if it is positive by 0 or a negative by 1. The rest is called magnitude bits.
 
-![4-bit word](image/4-bit word.png)
+![4-bit-word](image/4-bit-word.png)
 
 As I mentioned it before that signed integer types have the min and the max from **-(2ⁿ⁻¹) to 2ⁿ⁻¹-1** where n stands for the number of bits. Since we use the first bit for the positive and negative signs we have `n-1` in the **2ⁿ⁻¹**.
 

@@ -10,7 +10,7 @@ In the **binary** numbering system, the radix (base) is two. That’s why the ra
 
 Two’s complement can avoid multiple representations of 0, and it avoids keeping track of carrying bits in case of overflow.
 
-![4-bit word-3](image/4-bit word-3.png)
+![4-bit word-3](image/4-bit-word-3.png)
 
 We again use the first bit (MSB) for the `+` and `-` signs. We take the complement of the number and we add `1` to get the opposite number. This works from positive to negative and vice versa.
 
