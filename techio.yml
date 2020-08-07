@@ -1,7 +1,7 @@
 title: Rust for Python Developers - Rust Unsigned, Signed Integers and Casting
 plan:
 - title: Introduction
-  statement: indtroduction.md
+  statement: introduction.md
 - title: Unsigned Integer Types
   statement: unsigned.md
 - title: Signed Integer Types
