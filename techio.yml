@@ -7,22 +7,22 @@ plan:
 - title: Signed Integer Types
   statement: signed.md
 - title: Sign-and-Magnitude
-  statement: signmaginitude.md
+  statement: sign-magnitude.md
 - title: Ones’ Complement
-  statement: onescomplement.md
+  statement: ones-complement.md
 - title: Two’s Complement
-  statement: twoscomplement.md
+  statement: twos-complement.md
 - title: 4-bit Signed Binary Number Comparison
   statement: binary.md
 - title: Rust signed two’s complement integer types
-  statement: integertypes.md
+  statement: integer-types.md
 - title: Casting in Rust
   statement: casting.md
 - title: Casting to an Unsigned Type
-  statement: castingtounsigned.md
+  statement: casting-to-unsigned.md
 - title: Casting to a Signed Type
-  statement: castingtosigned.md
+  statement: casting-to-signed.md
 - title: Bitwise Negation
-  statement: bitwisenegation.md
+  statement: bitwise-negation.md
 - title: Conclusion
   statement: conclusion.md
